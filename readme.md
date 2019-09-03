@@ -1,10 +1,10 @@
 # The Laravel Excel Test Project
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/doublevas/nova-skeleton.svg?style=flat-square)](https://packagist.org/packages/doublevas/nova-skeleton)
-![CircleCI branch](https://img.shields.io/circleci/project/github/doublevas/nova-skeleton/master.svg?style=flat-square)
-[![Build Status](https://img.shields.io/travis/doublevas/nova-skeleton/master.svg?style=flat-square)](https://travis-ci.org/doublevas/nova-skeleton)
-[![Quality Score](https://img.shields.io/scrutinizer/g/doublevas/nova-skeleton.svg?style=flat-square)](https://scrutinizer-ci.com/g/doublevas/nova-skeleton)
-[![Total Downloads](https://img.shields.io/packagist/dt/doublevas/nova-skeleton.svg?style=flat-square)](https://packagist.org/packages/doublevas/nova-skeleton)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/doublevas/test-laravel-excel.svg?style=flat-square)](https://packagist.org/packages/doublevas/test-laravel-excel)
+![CircleCI branch](https://img.shields.io/circleci/project/github/doublevas/test-laravel-excel/master.svg?style=flat-square)
+[![Build Status](https://img.shields.io/travis/doublevas/test-laravel-excel/master.svg?style=flat-square)](https://travis-ci.org/doublevas/test-laravel-excel)
+[![Quality Score](https://img.shields.io/scrutinizer/g/doublevas/test-laravel-excel.svg?style=flat-square)](https://scrutinizer-ci.com/g/doublevas/test-laravel-excel)
+[![Total Downloads](https://img.shields.io/packagist/dt/doublevas/test-laravel-excel.svg?style=flat-square)](https://packagist.org/packages/doublevas/test-laravel-excel)
 
 
 This is where your description should go. Try and limit it to a paragraph or two.
