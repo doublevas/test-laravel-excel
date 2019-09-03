@@ -1,7 +1,7 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "name": "doublevas/test-laravel-excel",
+    "description": "The Laravel Excel Test Project",
+    "keywords": ["project", "laravel", "laravel-excel"],
     "license": "MIT",
     "type": "project",
     "require": {
